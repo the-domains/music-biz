@@ -1,3 +1,4 @@
+layout_spectrum: 0.8596835657954216
 typography_spectrum: 0.14630974223837256
 color:
   brandStrength: 0.04841313767246902
@@ -10,7 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.8596835657954216
-name: What's Up
-title: Current Happenings
-description: things of interest
+name: Music Biz
